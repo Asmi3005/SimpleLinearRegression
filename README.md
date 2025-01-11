@@ -5,7 +5,7 @@ This project explores the relationship between horsepower and fuel consumption u
 1. Methadology
    
  Below is the flowchart of the steps taken in this project:
-![Methodology Flowchart](flowcahrt.png)
+![Flowchart](flowchart.png)
 
 2. Key Concepts
 
